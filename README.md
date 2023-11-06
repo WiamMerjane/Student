@@ -48,6 +48,18 @@ Confirmation de la suppression
 #### La liste des etudiants
 ![Capture d’écran (48)](https://github.com/WiamMerjane/Student/assets/116950948/3c80dcaa-5825-440a-a240-42db48acdd05)
 
+## Swagger
+![Capture](https://github.com/WiamMerjane/Student/assets/116950948/9abfbf6a-9c3e-4557-baa2-f24bbdd22d07)
+![1](https://github.com/WiamMerjane/Student/assets/116950948/62ffc5c2-aec7-4873-ac1b-8b246a87fe15)
+
+### Exemple pour afficher les etudiants dans une filiere
+![2](https://github.com/WiamMerjane/Student/assets/116950948/94109f5f-e4b8-4e98-942e-ea1fff242a12)
+![3](https://github.com/WiamMerjane/Student/assets/116950948/fa57594c-9f04-4a2f-8f60-249377c9f27b)
+
+
+
+
+
 
 
 
